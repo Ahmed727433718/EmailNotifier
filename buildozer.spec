@@ -18,7 +18,9 @@ orientation = portrait
 
 android.permissions = INTERNET,POST_NOTIFICATIONS
 
-android.api = 35
+android.api = 34
+android.build_tools_version = 34.0.0
+android.accept_sdk_license = True
 
 android.minapi = 23
 
